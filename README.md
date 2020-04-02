@@ -9,4 +9,4 @@ new fonctionalities were aded to facilitate the using of the plugin :
             
             - a png file : a map of the bloc; the legend intervals were created based on values from last years    
             
-  * the same structure of output files  will enable to do statistic analysis and establish a new referential of the region of Champagne       every year
+  * the same structure of output files  will enable the Inter-profesionnal Commitee of Champagne Wine to do statistical analysis and establish a new referential of the region of Champagne every year
