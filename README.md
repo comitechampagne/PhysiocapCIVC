@@ -1,5 +1,5 @@
 # PhysiocapCIVC
-This plugin is a new version of the already made plugin of @jhemmi (https://github.com/jhemmi/QgisPhysiocapPlugin)
+This plugin is a new version of the already made plugin by @jhemmi (https://github.com/jhemmi/QgisPhysiocapPlugin)
 
 new fonctionalities were aded to facilitate the using of the plugin :
 
