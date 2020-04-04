@@ -7,5 +7,4 @@ this version was adapted to the needs of the Inter-profesionnal Commitee of Cham
        - a csv file with agrnomic informations on the parcel but also average value of BIOM/DIAM/NBSARM
        - a png file : an interpolated map of the parcel; the legend intervals were created based on mean values from last years    
             
-  * the same structure of output files  will enable the Inter-profesionnal Commitee of Champagne Wine to do statistical analysis and   
-    establish a new referential of the region of Champagne every year
+  * the same structure of output files  will enable the Inter-profesionnal Commitee of Champagne Wine to do statistical analysis and establish a new referential of the region of Champagne every year
