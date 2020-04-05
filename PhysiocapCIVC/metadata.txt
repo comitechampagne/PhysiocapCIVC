@@ -1,0 +1,54 @@
+# This file contains metadata for your plugin. 
+
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=PhysiocapCIVC
+qgisMinimumVersion=2.14
+description=This plugin helps analysing raw data from 
+  Physiocap inside Qgis. This is a plugin dedicaded
+  to Physiocap users "Agronomist of the vine".
+  
+  This version is available in French & English but documentation
+  is only in French.
+  
+  Cette extension aide à l'analyse des données brutes
+  de Physiocap sans quitter Qgis. Il est dédié aux 
+  utilisateurs de Physiocap "Agronome de la vigne"
+about= Physiocap est un capteur qui géolocalise des mesures de
+  diamètre des sarments d'une vigne. L'extension (plugin) 
+  Physiocap n'intéresse que le métier "Agronomie de la vigne".
+  Le capteur est embarqué sur un portique qui porte deux 
+  cellules qui traitent un rayon laser et réalise une mesure 
+  du diamètre des sarments. Il s'agit de mesures directes de 
+  la fréquence et du diamètre des sarments: indicateurs fidèles
+  de l'expression végétative et de la vigueur de la vigne.
+  L'extension permet de faire l'analyse des données brutes, 
+  l'analyse Inter et Intra parcellaire sans quitter Qgis.
+  Pour l'interprétation agronomique des résultats. Nous conseillons 
+  l'appui d'un agronome ou d'un technicien vigne averti.
+  Physiocap est breveté par le CIVC.
+version=1.9.0
+author=jhemmi.eu, CIVC
+email=jean@jhemmi.eu, nadia.moatassime@civc.fr
+
+# End of mandatory metadata
+
+# Recommended items
+
+
+
+tags=Physiocap,jhemmi.eu, Hemmi, sarment, section, diamètre, biomasse, CIVC, E.re.c.a, 
+
+homepage=https://github.com/comitechampagne/PhysiocapCIVC/wiki
+tracker=https://github.com/comitechampagne/PhysiocapCIVC/issues
+repository=https://github.com/comitechampagne/PhysiocapCIVC
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
